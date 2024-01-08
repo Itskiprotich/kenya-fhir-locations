@@ -14,7 +14,7 @@ class LocationController extends Controller
     public function index()
     {
         //
-        $csvFilePath = public_path("csv/other.csv");
+        $csvFilePath = public_path("csv/wards.csv");
 
 
         // Open the CSV file for reading
@@ -52,6 +52,7 @@ class LocationController extends Controller
                 $county = "";
                 $subCounty = "";
                 $answerOption = [];
+
                 foreach ($value as $item) {
                     $county = strtolower($item['County']);
                     $subCounty = strtolower(str_replace(' ', '-', $item['SubCounty']));
@@ -147,6 +148,44 @@ class LocationController extends Controller
     public function store(Request $request)
     {
         //
+    }
+
+    public function ward_names()
+    {
+        $csvFilePath = public_path("csv/wards.csv");
+        $handle = fopen($csvFilePath, 'r');
+        if ($handle !== false) {
+            $header = fgetcsv($handle);
+            $data = [];
+            while (($row = fgetcsv($handle)) !== false) {
+                $rowData = array_combine($header, $row);
+                $subCounty = $rowData['SubCounty'];
+                if (!isset($data[$subCounty])) {
+                    $data[$subCounty] = [];
+                }
+                $data[$subCounty][] = $rowData;
+            }
+
+            $stringNames = [];
+
+            foreach ($data as $key => $value) {
+
+                $subCounty = "";
+
+                foreach ($value as $item) {
+                    $county = strtolower($item['County']);
+                    $subCounty = strtolower(str_replace(' ', '-', $item['SubCounty']));
+                    $stringName = "PR-address-ward-{$subCounty}";
+                    $stringNames[] = $stringName;
+                }
+            }
+            $stringNames = array_unique($stringNames);
+            $stringNames = array_values($stringNames);
+
+            return $stringNames;
+        } else {
+            echo "Error opening the CSV file.";
+        }
     }
 
     /**

@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('/wards', [LocationController::class, 'index'])->name('wards');
+Route::get('/ward_names', [LocationController::class, 'ward_names'])->name('ward_names');
