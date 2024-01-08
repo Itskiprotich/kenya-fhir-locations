@@ -1,0 +1,24 @@
+{
+    "enableWhen": [
+        {
+            "answerCoding": {
+                "code": "bute-",
+                "display": "gurar",
+                "system": "https://locationlist.com/counties"
+            },
+            "operator": "="
+        }
+    ]
+},
+{
+    "enableWhen": [
+        {
+            "answerCoding": {
+                "code": "bute-",
+                "display": "bute ",
+                "system": "https://locationlist.com/counties"
+            },
+            "operator": "="
+        }
+    ]
+}

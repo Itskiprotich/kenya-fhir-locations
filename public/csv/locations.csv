@@ -1,0 +1,1291 @@
+id,County,SubCounty,Ward
+161,Wajir,wajir north,gurar
+162,Wajir,wajir north,bute
+163,Wajir,wajir north,korondile
+164,Wajir,wajir north,malkagufu
+165,Wajir,wajir north,batalu
+166,Wajir,wajir north,danaba
+167,Wajir,wajir north,godoma
+168,Wajir,wajir east,wagberi
+169,Wajir,wajir east,township
+170,Wajir,wajir east,barwago
+171,Wajir,wajir east,khorof harar
+172,Wajir,tarbaj,elben
+173,Wajir,tarbaj,sarman
+174,Wajir,tarbaj,tarbaj
+175,Wajir,tarbaj,wargadud
+176,Wajir,wajir west,arbajahan
+177,Wajir,wajir west,hadado athibohol
+178,Wajir,wajir west,ademasajide
+179,Wajir,wajir west,wagalla ganyure
+180,Wajir,eldas,eldas
+181,Wajir,eldas,della
+182,Wajir,eldas,lakoley south basir
+183,Wajir,eldas,elnur tula tula
+184,Wajir,wajir south,benane
+185,Wajir,wajir south,burder
+186,Wajir,wajir south,dadaja bulla
+187,Wajir,wajir south,habasswein
+188,Wajir,wajir south,lagboghol south
+189,Wajir,wajir south,ibrahim ure
+190,Wajir,wajir south,diif
+191,Mandera,mandera west,takaba south
+192,Mandera,mandera west,takaba
+193,Mandera,mandera west,lag sure
+194,Mandera,mandera west,dandu
+195,Mandera,mandera west,gither
+196,Mandera,banissa,banissa
+197,Mandera,banissa,derkhale
+198,Mandera,banissa,guba
+199,Mandera,banissa,malkamari
+200,Mandera,banissa,kiliwehiri
+201,Mandera,mandera north,ashabito
+202,Mandera,mandera north,guticha
+203,Mandera,mandera north,morothile
+204,Mandera,mandera north,rhamu
+205,Mandera,mandera north,rhamu-dimtu
+206,Mandera,mandera south,wargudud
+207,Mandera,mandera south,kutulo
+208,Mandera,mandera south,elwak south
+209,Mandera,mandera south,elwak north
+210,Mandera,mandera south,shimbir fatuma
+211,Mandera,mandera east,arabia
+212,Mandera,mandera east,bulla mpya
+213,Mandera,mandera east,khalalio
+214,Mandera,mandera east,neboi
+215,Mandera,mandera east,township
+216,Mandera,lafey,libehia
+217,Mandera,lafey,fino
+218,Mandera,lafey,lafey
+219,Mandera,lafey,warankara
+220,Mandera,lafey,alungo gof
+221,Marsabit,moyale,butiye
+222,Marsabit,moyale,sololo
+223,Marsabit,moyale,heilu-manyatta
+224,Marsabit,moyale,golbo
+225,Marsabit,moyale,moyale township
+226,Marsabit,moyale,uran
+227,Marsabit,moyale,obbu
+228,Marsabit,north horr,illeret
+229,Marsabit,north horr,north horr
+230,Marsabit,north horr,dukana
+231,Marsabit,north horr,maikona
+232,Marsabit,north horr,turbi
+233,Marsabit,saku,sagante jaldesa
+234,Marsabit,saku,karare
+235,Marsabit,saku,marsabit central
+236,Marsabit,laisamis,loiyangalani
+237,Marsabit,laisamis,kargi south horr
+238,Marsabit,laisamis,korr ngurunit
+239,Marsabit,laisamis,log logo
+240,Marsabit,laisamis,laisamis
+241,Isiolo,isiolo north,wabera
+242,Isiolo,isiolo north,bulla pesa
+243,Isiolo,isiolo north,chari
+244,Isiolo,isiolo north,cherab
+245,Isiolo,isiolo north,ngare mara
+246,Isiolo,isiolo north,burat
+247,Isiolo,isiolo north,oldonyiro
+248,Isiolo,isiolo south,garbatulla
+249,Isiolo,isiolo south,kinna
+250,Isiolo,isiolo south,sericho
+251,Meru,igembe south,maua
+252,Meru,igembe south,kiegoi antubochiu
+253,Meru,igembe south,athiru gaiti
+254,Meru,igembe south,akachiu
+255,Meru,igembe south,kanuni
+256,Meru,igembe central,akirang'ondu
+257,Meru,igembe central,athiru ruujine
+258,Meru,igembe central,igembe east
+259,Meru,igembe central,njia
+260,Meru,igembe central,kangeta
+261,Meru,igembe north,antuambui
+262,Meru,igembe north,ntunene
+263,Meru,igembe north,antubetwe kiongo
+264,Meru,igembe north,naathu
+265,Meru,igembe north,amwathi
+266,Meru,tigania west,athwana
+267,Meru,tigania west,akithii
+268,Meru,tigania west,kianjai
+269,Meru,tigania west,nkomo
+270,Meru,tigania west,mbeu
+271,Meru,tigania east,thangatha
+272,Meru,tigania east,mikinduri
+273,Meru,tigania east,kiguchwa
+274,Meru,tigania east,muthara
+275,Meru,tigania east,karama
+276,Meru,north imenti,municipality
+277,Meru,north imenti,ntima east
+278,Meru,north imenti,ntima west
+279,Meru,north imenti,nyaki west
+280,Meru,north imenti,nyaki east
+281,Meru,buuri,timau
+282,Meru,buuri,kisima
+283,Meru,buuri,kiirua naari
+284,Meru,buuri,ruiri rwarera
+285,Meru,buuri,kibirichia
+286,Meru,central imenti,mwanganthia
+287,Meru,central imenti,abothuguchi central
+288,Meru,central imenti,abothuguchi west
+289,Meru,central imenti,kiagu
+290,Meru,south imenti,mitunguu
+291,Meru,south imenti,igoji east
+292,Meru,south imenti,igoji west
+293,Meru,south imenti,abogeta east
+294,Meru,south imenti,abogeta west
+295,Meru,south imenti,nkuene
+296,Tharaka-Nithi,maara,mitheru
+297,Tharaka-Nithi,maara,muthambi
+298,Tharaka-Nithi,maara,mwimbi
+299,Tharaka-Nithi,maara,ganga
+300,Tharaka-Nithi,maara,chogoria
+301,Tharaka-Nithi,chuka igambang'om,mariani
+302,Tharaka-Nithi,chuka igambang'om,karingani
+303,Tharaka-Nithi,chuka igambang'om,magumoni
+304,Tharaka-Nithi,chuka igambang'om,mugwe
+305,Tharaka-Nithi,chuka igambang'om,igambang'ombe
+306,Tharaka-Nithi,tharaka,gatunga
+307,Tharaka-Nithi,tharaka,mukothima
+308,Tharaka-Nithi,tharaka,nkondi
+309,Tharaka-Nithi,tharaka,chiakariga
+310,Tharaka-Nithi,tharaka,marimanti
+311,Embu,manyatta,ruguru ngandori
+312,Embu,manyatta,kithimu
+313,Embu,manyatta,nginda
+314,Embu,manyatta,mbeti north
+315,Embu,manyatta,kirimari
+316,Embu,manyatta,gaturi south
+317,Embu,runyenjes,gaturi north
+318,Embu,runyenjes,kagaari south
+319,Embu,runyenjes,central  ward
+320,Embu,runyenjes,kagaari north
+321,Embu,runyenjes,kyeni north
+322,Embu,runyenjes,kyeni south
+323,Embu,mbeere south,mwea
+324,Embu,mbeere south,makima
+325,Embu,mbeere south,mbeti south
+326,Embu,mbeere south,mavuria
+327,Embu,mbeere south,kiambere
+328,Embu,mbeere north,nthawa
+329,Embu,mbeere north,muminji
+330,Embu,mbeere north,evurore
+331,Kitui,mwingi north,ngomeni
+332,Kitui,mwingi north,kyuso
+333,Kitui,mwingi north,mumoni
+334,Kitui,mwingi north,tseikuru
+335,Kitui,mwingi north,tharaka
+336,Kitui,mwingi west,kyome thaana
+337,Kitui,mwingi west,nguutani
+338,Kitui,mwingi west,migwani
+339,Kitui,mwingi west,kiomo kyethani
+340,Kitui,mwingi central,central
+341,Kitui,mwingi central,kivou
+342,Kitui,mwingi central,nguni
+343,Kitui,mwingi central,nuu
+344,Kitui,mwingi central,mui
+345,Kitui,mwingi central,waita
+346,Kitui,kitui west,mutonguni
+347,Kitui,kitui west,kauwi
+348,Kitui,kitui west,matinyani
+349,Kitui,kitui west,kwa mutonga kithumula
+350,Kitui,kitui rural,kisasi
+351,Kitui,kitui rural,mbitini
+352,Kitui,kitui rural,kwavonza yatta
+353,Kitui,kitui rural,kanyangi
+354,Kitui,kitui central,miambani
+355,Kitui,kitui central,township
+356,Kitui,kitui central,kyangwithya west
+357,Kitui,kitui central,mulango
+358,Kitui,kitui central,kyangwithya east
+359,Kitui,kitui east,zombe mwitika
+360,Kitui,kitui east,chuluni
+361,Kitui,kitui east,nzambani
+362,Kitui,kitui east,voo kyamatu
+363,Kitui,kitui east,endau malalani
+364,Kitui,kitui east,mutito kaliku
+365,Kitui,kitui south,ikanga kyatune
+366,Kitui,kitui south,mutomo
+367,Kitui,kitui south,mutha
+368,Kitui,kitui south,ikutha
+369,Kitui,kitui south,kanziko
+370,Kitui,kitui south,athi
+371,Machakos,masinga,kivaa
+372,Machakos,masinga,masinga central
+373,Machakos,masinga,ekalakala
+374,Machakos,masinga,muthesya
+375,Machakos,masinga,ndithini
+376,Machakos,yatta,ndalani
+377,Machakos,yatta,matuu
+378,Machakos,yatta,kithimani
+379,Machakos,yatta,ikombe
+380,Machakos,yatta,katangi
+381,Machakos,kangundo,kangundo north
+382,Machakos,kangundo,kangundo central
+383,Machakos,kangundo,kangundo east
+384,Machakos,kangundo,kangundo west
+385,Machakos,matungulu,tala
+386,Machakos,matungulu,matungulu north
+387,Machakos,matungulu,matungulu east
+388,Machakos,matungulu,matungulu west
+389,Machakos,matungulu,kyeleni
+390,Machakos,kathiani,mitaboni
+391,Machakos,kathiani,kathiani central
+392,Machakos,kathiani,upper kaewa iveti
+393,Machakos,kathiani,lower kaewa kaani
+394,Machakos,mavoko,athi river
+395,Machakos,mavoko,kinanie
+396,Machakos,mavoko,muthwani
+397,Machakos,mavoko,syokimau mulolongo
+398,Machakos,machakos town,kalama
+399,Machakos,machakos town,mua
+400,Machakos,machakos town,mutituni
+401,Machakos,machakos town,machakos central
+402,Machakos,machakos town,mumbuni north
+403,Machakos,machakos town,muvuti kiima-kimwe
+404,Machakos,machakos town,kola
+405,Machakos,mwala,mbiuni
+406,Machakos,mwala,makutano  mwala
+407,Machakos,mwala,masii
+408,Machakos,mwala,muthetheni
+409,Machakos,mwala,wamunyu
+410,Machakos,mwala,kibauni
+411,Makueni,mbooni,tulimani
+412,Makueni,mbooni,mbooni
+413,Makueni,mbooni,kithungo kitundu
+414,Makueni,mbooni,kisau kiteta
+415,Makueni,mbooni,waia kako
+416,Makueni,mbooni,kalawa
+417,Makueni,kilome,kasikeu
+418,Makueni,kilome,mukaa
+419,Makueni,kilome,kiima kiu kalanzoni
+420,Makueni,kaiti,ukia
+421,Makueni,kaiti,kee
+422,Makueni,kaiti,kilungu
+423,Makueni,kaiti,ilima
+424,Makueni,makueni,wote
+425,Makueni,makueni,muvau kikuumini
+426,Makueni,makueni,mavindini
+427,Makueni,makueni,kitise kithuki
+428,Makueni,makueni,kathonzweni
+429,Makueni,makueni,nzaui kilili kalamba
+430,Makueni,makueni,mbitini
+431,Makueni,kibwezi west,makindu
+432,Makueni,kibwezi west,nguumo
+433,Makueni,kibwezi west,kikumbulyu north
+434,Makueni,kibwezi west,kikumbulyu south
+435,Makueni,kibwezi west,nguu masumba
+436,Makueni,kibwezi west,emali mulala
+437,Makueni,kibwezi east,masongaleni
+438,Makueni,kibwezi east,mtito andei
+439,Makueni,kibwezi east,thange
+440,Makueni,kibwezi east,ivingoni nzambani
+441,Nyandarua,kinangop,engineer
+442,Nyandarua,kinangop,gathara
+443,Nyandarua,kinangop,north kinangop
+444,Nyandarua,kinangop,murungaru
+445,Nyandarua,kinangop,njabini kiburu
+446,Nyandarua,kinangop,nyakio
+447,Nyandarua,kinangop,githabai
+448,Nyandarua,kinangop,magumu
+449,Nyandarua,kipipiri,wanjohi
+450,Nyandarua,kipipiri,kipipiri
+451,Nyandarua,kipipiri,geta
+452,Nyandarua,kipipiri,githioro
+453,Nyandarua,ol kalou,karau
+454,Nyandarua,ol kalou,kanjuiri ridge
+455,Nyandarua,ol kalou,mirangine
+456,Nyandarua,ol kalou,kaimbaga
+457,Nyandarua,ol kalou,rurii
+458,Nyandarua,ol jorok,gathanji
+459,Nyandarua,ol jorok,gatimu
+460,Nyandarua,ol jorok,weru
+461,Nyandarua,ol jorok,charagita
+462,Nyandarua,ndaragwa,leshau pondo
+463,Nyandarua,ndaragwa,kiriita
+464,Nyandarua,ndaragwa,central
+465,Nyandarua,ndaragwa,shamata
+466,Nyeri,tetu,dedan kimanthi
+467,Nyeri,tetu,wamagana
+468,Nyeri,tetu,aguthi gaaki
+469,Nyeri,kieni,mweiga
+470,Nyeri,kieni,naromoru kiamathaga
+471,Nyeri,kieni,mwiyogo endarasha
+472,Nyeri,kieni,mugunda
+473,Nyeri,kieni,gatarakwa
+474,Nyeri,kieni,thegu river
+475,Nyeri,kieni,kabaru
+476,Nyeri,kieni,gakawa
+477,Nyeri,mathira,ruguru
+478,Nyeri,mathira,magutu
+479,Nyeri,mathira,iriaini
+480,Nyeri,mathira,konyu
+481,Nyeri,mathira,kirimukuyu
+482,Nyeri,mathira,karatina town
+483,Nyeri,othaya,mahiga
+484,Nyeri,othaya,iria-ini
+485,Nyeri,othaya,chinga
+486,Nyeri,othaya,karima
+487,Nyeri,mukurweini,gikondi
+488,Nyeri,mukurweini,rugi
+489,Nyeri,mukurweini,mukurwe-ini west
+490,Nyeri,mukurweini,mukurwe-ini central
+491,Nyeri,nyeri town,kiganjo mathari
+492,Nyeri,nyeri town,rware
+493,Nyeri,nyeri town,gatitu muruguru
+494,Nyeri,nyeri town,ruring'u
+495,Nyeri,nyeri town,kamakwa mukaro
+496,Kirinyaga,mwea,mutithi
+497,Kirinyaga,mwea,kangai
+498,Kirinyaga,mwea,thiba
+499,Kirinyaga,mwea,wamumu
+500,Kirinyaga,mwea,nyangati
+501,Kirinyaga,mwea,murinduko
+502,Kirinyaga,mwea,gathigiriri
+503,Kirinyaga,mwea,tebere
+504,Kirinyaga,gichugu,kabare
+505,Kirinyaga,gichugu,baragwi
+506,Kirinyaga,gichugu,njukiini
+507,Kirinyaga,gichugu,ngariama
+508,Kirinyaga,gichugu,karumandi
+509,Kirinyaga,ndia,mukure
+510,Kirinyaga,ndia,kiine
+511,Kirinyaga,ndia,kariti
+512,Kirinyaga,kirinyaga central,mutira
+513,Kirinyaga,kirinyaga central,kanyeki-ini
+514,Kirinyaga,kirinyaga central,kerugoya
+515,Kirinyaga,kirinyaga central,inoi
+516,Murang'a,kangema,kanyenyaini
+517,Murang'a,kangema,muguru
+518,Murang'a,kangema,rwathia
+519,Murang'a,mathioya,gitugi
+520,Murang'a,mathioya,kiru
+521,Murang'a,mathioya,kamacharia
+522,Murang'a,kiharu,wangu
+523,Murang'a,kiharu,mugoiri
+524,Murang'a,kiharu,mbiri
+525,Murang'a,kiharu,township
+526,Murang'a,kiharu,murarandia
+527,Murang'a,kiharu,gaturi
+528,Murang'a,kigumo,kahumbu
+529,Murang'a,kigumo,muthithi
+530,Murang'a,kigumo,kigumo
+531,Murang'a,kigumo,kangari
+532,Murang'a,kigumo,kinyona
+533,Murang'a,maragwa,kimorori wempa
+534,Murang'a,maragwa,makuyu
+535,Murang'a,maragwa,kambiti
+536,Murang'a,maragwa,kamahuha
+537,Murang'a,maragwa,ichagaki
+538,Murang'a,maragwa,nginda
+539,Murang'a,kandara,ng'araria
+540,Murang'a,kandara,muruka
+541,Murang'a,kandara,kagundu-ini
+542,Murang'a,kandara,gaichanjiru
+543,Murang'a,kandara,ithiru
+544,Murang'a,kandara,ruchu
+545,Murang'a,gatanga,ithanga
+546,Murang'a,gatanga,kakuzi mitubiri
+547,Murang'a,gatanga,mugumo-ini
+548,Murang'a,gatanga,kihumbu-ini
+549,Murang'a,gatanga,gatanga
+550,Murang'a,gatanga,kariara
+551,Kiambu,gatundu south,kiamwangi
+552,Kiambu,gatundu south,kiganjo
+553,Kiambu,gatundu south,ndarugu
+554,Kiambu,gatundu south,ngenda
+555,Kiambu,gatundu north,gituamba
+556,Kiambu,gatundu north,githobokoni
+557,Kiambu,gatundu north,chania
+558,Kiambu,gatundu north,mang'u
+559,Kiambu,juja,murera
+560,Kiambu,juja,theta
+561,Kiambu,juja,juja
+562,Kiambu,juja,witeithie
+563,Kiambu,juja,kalimoni
+564,Kiambu,thika town,township
+565,Kiambu,thika town,kamenu
+566,Kiambu,thika town,hospital
+567,Kiambu,thika town,gatuanyaga
+568,Kiambu,thika town,ngoliba
+569,Kiambu,ruiru,gitothua
+570,Kiambu,ruiru,biashara
+571,Kiambu,ruiru,gatongora
+572,Kiambu,ruiru,kahawa sukari
+573,Kiambu,ruiru,kahawa wendani
+574,Kiambu,ruiru,kiuu
+575,Kiambu,ruiru,mwiki
+576,Kiambu,ruiru,mwihoko
+577,Kiambu,githunguri,githunguri
+578,Kiambu,githunguri,githiga
+579,Kiambu,githunguri,ikinu
+580,Kiambu,githunguri,ngewa
+581,Kiambu,githunguri,komothai
+582,Kiambu,kiambu,ting'ang'a
+583,Kiambu,kiambu,ndumberi
+584,Kiambu,kiambu,riabai
+585,Kiambu,kiambu,township
+586,Kiambu,kiambaa,cianda
+587,Kiambu,kiambaa,karuri
+588,Kiambu,kiambaa,ndenderu
+589,Kiambu,kiambaa,muchatha
+590,Kiambu,kiambaa,kihara
+591,Kiambu,kabete,gitaru
+592,Kiambu,kabete,muguga
+593,Kiambu,kabete,nyadhuna
+594,Kiambu,kabete,kabete
+595,Kiambu,kabete,uthiru
+596,Kiambu,kikuyu,karai
+597,Kiambu,kikuyu,nachu
+598,Kiambu,kikuyu,sigona
+599,Kiambu,kikuyu,kikuyu
+600,Kiambu,kikuyu,kinoo
+601,Kiambu,limuru,bibirioni
+602,Kiambu,limuru,limuru central
+603,Kiambu,limuru,ndeiya
+604,Kiambu,limuru,limuru east
+605,Kiambu,limuru,ngecha tigoni
+606,Kiambu,lari,kinale
+607,Kiambu,lari,kijabe
+608,Kiambu,lari,nyanduma
+609,Kiambu,lari,kamburu
+610,Kiambu,lari,lari kirenga
+611,Turkana,turkana north,kaeris
+612,Turkana,turkana north,lake zone
+613,Turkana,turkana north,lapur
+614,Turkana,turkana north,kaaleng kaikor
+615,Turkana,turkana north,kibish
+616,Turkana,turkana north,nakalale
+617,Turkana,turkana west,kakuma
+618,Turkana,turkana west,lopur
+619,Turkana,turkana west,letea
+620,Turkana,turkana west,songot
+621,Turkana,turkana west,kalobeyei
+622,Turkana,turkana west,lokichoggio
+623,Turkana,turkana west,nanaam
+624,Turkana,turkana central,kerio delta
+625,Turkana,turkana central,kang'atotha
+626,Turkana,turkana central,kalokol
+627,Turkana,turkana central,lodwar township
+628,Turkana,turkana central,kanamkemer
+629,Turkana,loima,kotaruk lobei
+630,Turkana,loima,turkwel
+631,Turkana,loima,loima
+632,Turkana,loima,lokiriama lorengippi
+633,Turkana,turkana south,kaputir
+634,Turkana,turkana south,katilu
+635,Turkana,turkana south,lobokat
+636,Turkana,turkana south,kalapata
+637,Turkana,turkana south,lokichar
+638,Turkana,turkana east,kapedo napeitom
+639,Turkana,turkana east,katilia
+640,Turkana,turkana east,lokori kochodin
+641,West Pokot,kapenguria,riwo
+642,West Pokot,kapenguria,kapenguria
+643,West Pokot,kapenguria,mnagei
+644,West Pokot,kapenguria,siyoi
+645,West Pokot,kapenguria,endugh
+646,West Pokot,kapenguria,sook
+647,West Pokot,sigor,sekerr
+648,West Pokot,sigor,masool
+649,West Pokot,sigor,lomut
+650,West Pokot,sigor,weiwei
+651,West Pokot,kacheliba,suam
+652,West Pokot,kacheliba,kodich
+653,West Pokot,kacheliba,kapckok
+654,West Pokot,kacheliba,kasei
+655,West Pokot,kacheliba,kiwawa
+656,West Pokot,kacheliba,alale
+657,West Pokot,pokot south,chepareria
+658,West Pokot,pokot south,batei
+659,West Pokot,pokot south,lelan
+660,West Pokot,pokot south,tapach
+661,Samburu,samburu west,lodokejek
+662,Samburu,samburu west,suguta marmar
+663,Samburu,samburu west,maralal
+664,Samburu,samburu west,loosuk
+665,Samburu,samburu west,poro
+666,Samburu,samburu north,el-barta
+667,Samburu,samburu north,nachola
+668,Samburu,samburu north,ndoto
+669,Samburu,samburu north,nyiro
+670,Samburu,samburu north,angata nanyokie
+671,Samburu,samburu north,baawa
+672,Samburu,samburu east,waso
+673,Samburu,samburu east,wamba west
+674,Samburu,samburu east,wamba east
+675,Samburu,samburu east,wamba north
+676,Trans-Nzoia,kwanza,kapomboi
+677,Trans-Nzoia,kwanza,kwanza
+678,Trans-Nzoia,kwanza,keiyo
+679,Trans-Nzoia,kwanza,bidii
+680,Trans-Nzoia,endebess,chepchoina
+681,Trans-Nzoia,endebess,endebess
+682,Trans-Nzoia,endebess,matumbei
+683,Trans-Nzoia,saboti,kinyoro
+684,Trans-Nzoia,saboti,matisi
+685,Trans-Nzoia,saboti,tuwani
+686,Trans-Nzoia,saboti,saboti
+687,Trans-Nzoia,saboti,machewa
+688,Trans-Nzoia,kiminini,kiminini
+689,Trans-Nzoia,kiminini,waitaluk
+690,Trans-Nzoia,kiminini,sirende
+691,Trans-Nzoia,kiminini,hospital
+692,Trans-Nzoia,kiminini,sikhendu
+693,Trans-Nzoia,kiminini,nabiswa
+694,Trans-Nzoia,cherangany,sinyerere
+695,Trans-Nzoia,cherangany,makutano
+696,Trans-Nzoia,cherangany,kaplamai
+697,Trans-Nzoia,cherangany,motosiet
+698,Trans-Nzoia,cherangany,cherangany suwerwa
+699,Trans-Nzoia,cherangany,chepsiro kiptoror
+700,Trans-Nzoia,cherangany,sitatunga
+701,Uasin Gishu,soy,moi's bridge
+702,Uasin Gishu,soy,kapkures
+703,Uasin Gishu,soy,ziwa
+704,Uasin Gishu,soy,segero barsombe
+705,Uasin Gishu,soy,kipsomba
+706,Uasin Gishu,soy,soy
+707,Uasin Gishu,soy,kuinet kapsuswa
+708,Uasin Gishu,turbo,ngenyilel
+709,Uasin Gishu,turbo,tapsagoi
+710,Uasin Gishu,turbo,kamagut
+711,Uasin Gishu,turbo,kiplombe
+712,Uasin Gishu,turbo,kapsaos
+713,Uasin Gishu,turbo,huruma
+714,Uasin Gishu,moiben,tembelio
+715,Uasin Gishu,moiben,sergoit
+716,Uasin Gishu,moiben,karuna meibeki
+717,Uasin Gishu,moiben,moiben
+718,Uasin Gishu,moiben,kimumu
+719,Uasin Gishu,ainabkoi,kapsoya
+720,Uasin Gishu,ainabkoi,kaptagat
+721,Uasin Gishu,ainabkoi,ainabkoi olare
+722,Uasin Gishu,kapseret,simat kapseret
+723,Uasin Gishu,kapseret,kipkenyo
+724,Uasin Gishu,kapseret,ngeria
+725,Uasin Gishu,kapseret,megun
+726,Uasin Gishu,kapseret,langas
+727,Uasin Gishu,kesses,racecourse
+728,Uasin Gishu,kesses,cheptiret kipchamo
+729,Uasin Gishu,kesses,tulwet chuiyat
+730,Uasin Gishu,kesses,tarakwa
+731,Elgeyo-Marakwet,marakwet east,kapyego
+732,Elgeyo-Marakwet,marakwet east,sambirir
+733,Elgeyo-Marakwet,marakwet east,endo
+734,Elgeyo-Marakwet,marakwet east,embobut   embulot
+735,Elgeyo-Marakwet,marakwet west,lelan
+736,Elgeyo-Marakwet,marakwet west,sengwer
+737,Elgeyo-Marakwet,marakwet west,cherang'any chebororwa
+738,Elgeyo-Marakwet,marakwet west,moiben kuserwo
+739,Elgeyo-Marakwet,marakwet west,kapsowar
+740,Elgeyo-Marakwet,marakwet west,arror
+741,Elgeyo-Marakwet,keiyo north,emsoo
+742,Elgeyo-Marakwet,keiyo north,kamariny
+743,Elgeyo-Marakwet,keiyo north,kapchemutwa
+744,Elgeyo-Marakwet,keiyo north,tambach
+745,Elgeyo-Marakwet,keiyo south,kaptarakwa
+746,Elgeyo-Marakwet,keiyo south,chepkorio
+747,Elgeyo-Marakwet,keiyo south,soy north
+748,Elgeyo-Marakwet,keiyo south,soy south
+749,Elgeyo-Marakwet,keiyo south,kabiemit
+750,Elgeyo-Marakwet,keiyo south,metkei
+751,Nandi,tinderet,songhor soba
+752,Nandi,tinderet,tindiret
+753,Nandi,tinderet,chemelil chemase
+754,Nandi,tinderet,kapsimotwo
+755,Nandi,aldai,kabwareng
+756,Nandi,aldai,terik
+757,Nandi,aldai,kemeloi-maraba
+758,Nandi,aldai,kobujoi
+759,Nandi,aldai,kaptumo-kaboi
+760,Nandi,aldai,koyo-ndurio
+761,Nandi,nandi hills,nandi hills
+762,Nandi,nandi hills,chepkunyuk
+763,Nandi,nandi hills,ol'lessos
+764,Nandi,nandi hills,kapchorua
+765,Nandi,chesumei,chemundu kapng'etuny
+766,Nandi,chesumei,kosirai
+767,Nandi,chesumei,lelmokwo ngechek
+768,Nandi,chesumei,kaptel kamoiywo
+769,Nandi,chesumei,kiptuya
+770,Nandi,emgwen,chepkumia
+771,Nandi,emgwen,kapkangani
+772,Nandi,emgwen,kapsabet
+773,Nandi,emgwen,kilibwoni
+774,Nandi,mosop,chepterwai
+775,Nandi,mosop,kipkaren
+776,Nandi,mosop,kurgung surungai
+777,Nandi,mosop,kabiyet
+778,Nandi,mosop,ndalat
+779,Nandi,mosop,kabisaga
+780,Nandi,mosop,sangalo kebulonik
+781,Baringo,tiaty,tirioko
+782,Baringo,tiaty,kolowa
+783,Baringo,tiaty,ribkwo
+784,Baringo,tiaty,silale
+785,Baringo,tiaty,loiyamorock
+786,Baringo,tiaty,tangulbei korossi
+787,Baringo,tiaty,churo amaya
+788,Baringo,baringo  north,barwessa
+789,Baringo,baringo  north,kabartonjo
+790,Baringo,baringo  north,saimo kipsaraman
+791,Baringo,baringo  north,saimo soi
+792,Baringo,baringo  north,bartabwa
+793,Baringo,baringo central,kabarnet
+794,Baringo,baringo central,sacho
+795,Baringo,baringo central,tenges
+796,Baringo,baringo central,ewalel chapchap
+797,Baringo,baringo central,kapropita
+798,Baringo,baringo south,marigat
+799,Baringo,baringo south,ilchamus
+800,Baringo,baringo south,mochongoi
+801,Baringo,baringo south,mukutani
+802,Baringo,mogotio,mogotio
+803,Baringo,mogotio,emining
+804,Baringo,mogotio,kisanana
+805,Baringo,eldama ravine,lembus
+806,Baringo,eldama ravine,lembus kwen
+807,Baringo,eldama ravine,ravine
+808,Baringo,eldama ravine,mumberes maji mazuri
+809,Baringo,eldama ravine,lembus perkerra
+810,Baringo,eldama ravine,koibatek
+811,Laikipia,laikipia west,olmoran
+812,Laikipia,laikipia west,rumuruti township
+813,Laikipia,laikipia west,kinamba
+814,Laikipia,laikipia west,marmanet
+815,Laikipia,laikipia west,igwamiti
+816,Laikipia,laikipia west,salama
+817,Laikipia,laikipia east,ngobit
+818,Laikipia,laikipia east,tigithi
+819,Laikipia,laikipia east,thingithu
+820,Laikipia,laikipia east,nanyuki
+821,Laikipia,laikipia east,umande
+822,Laikipia,laikipia north,sosian
+823,Laikipia,laikipia north,segera
+824,Laikipia,laikipia north,mukogondo west
+825,Laikipia,laikipia north,mukogondo east
+826,Nakuru,molo,mariashoni
+827,Nakuru,molo,elburgon
+828,Nakuru,molo,turi
+829,Nakuru,molo,molo
+830,Nakuru,njoro,maunarok
+831,Nakuru,njoro,mauche
+832,Nakuru,njoro,kihingo
+833,Nakuru,njoro,nessuit
+834,Nakuru,njoro,lare
+835,Nakuru,njoro,njoro
+836,Nakuru,naivasha,biashara
+837,Nakuru,naivasha,hells gate
+838,Nakuru,naivasha,lakeview
+839,Nakuru,naivasha,maai-mahiu
+840,Nakuru,naivasha,maiella
+841,Nakuru,naivasha,olkaria
+842,Nakuru,naivasha,naivasha east
+843,Nakuru,naivasha,viwandani
+844,Nakuru,gilgil,gilgil
+845,Nakuru,gilgil,elementaita
+846,Nakuru,gilgil,mbaruk eburu
+847,Nakuru,gilgil,malewa west
+848,Nakuru,gilgil,murindati
+849,Nakuru,kuresoi south,amalo
+850,Nakuru,kuresoi south,keringet
+851,Nakuru,kuresoi south,kiptagich
+852,Nakuru,kuresoi south,tinet
+853,Nakuru,kuresoi north,kiptororo
+854,Nakuru,kuresoi north,nyota
+855,Nakuru,kuresoi north,sirikwa
+856,Nakuru,kuresoi north,kamara
+857,Nakuru,subukia,subukia
+858,Nakuru,subukia,waseges
+859,Nakuru,subukia,kabazi
+860,Nakuru,rongai,menengai west
+861,Nakuru,rongai,soin
+862,Nakuru,rongai,visoi
+863,Nakuru,rongai,mosop
+864,Nakuru,rongai,solai
+865,Nakuru,bahati,dundori
+866,Nakuru,bahati,kabatini
+867,Nakuru,bahati,kiamaina
+868,Nakuru,bahati,lanet umoja
+869,Nakuru,bahati,bahati
+870,Nakuru,nakuru town west,barut
+871,Nakuru,nakuru town west,london
+872,Nakuru,nakuru town west,kaptembwo
+873,Nakuru,nakuru town west,kapkures
+874,Nakuru,nakuru town west,rhoda
+875,Nakuru,nakuru town west,shaabab
+876,Nakuru,nakuru town east,biashara
+877,Nakuru,nakuru town east,kivumbini
+878,Nakuru,nakuru town east,flamingo
+879,Nakuru,nakuru town east,menengai
+880,Nakuru,nakuru town east,nakuru east
+881,Narok,kilgoris,kilgoris central
+882,Narok,kilgoris,keyian
+883,Narok,kilgoris,angata barikoi
+884,Narok,kilgoris,shankoe
+885,Narok,kilgoris,kimintet
+886,Narok,kilgoris,lolgorian
+887,Narok,emurua dikirr,ilkerin
+888,Narok,emurua dikirr,ololmasani
+889,Narok,emurua dikirr,mogondo
+890,Narok,emurua dikirr,kapsasian
+891,Narok,narok north,olpusimoru
+892,Narok,narok north,olokurto
+893,Narok,narok north,narok town
+894,Narok,narok north,nkareta
+895,Narok,narok north,olorropil
+896,Narok,narok north,melili
+897,Narok,narok east,mosiro
+898,Narok,narok east,ildamat
+899,Narok,narok east,keekonyokie
+900,Narok,narok east,suswa
+901,Narok,narok south,majimoto naroosura
+902,Narok,narok south,ololulung'a
+903,Narok,narok south,melelo
+904,Narok,narok south,loita
+905,Narok,narok south,sogoo
+906,Narok,narok south,sagamian
+907,Narok,narok west,ilmotiok
+908,Narok,narok west,mara
+909,Narok,narok west,siana
+910,Narok,narok west,naikarra
+911,Kajiado,kajiado north,olkeri
+912,Kajiado,kajiado north,ongata rongai
+913,Kajiado,kajiado north,nkaimurunya
+914,Kajiado,kajiado north,oloolua
+915,Kajiado,kajiado north,ngong
+916,Kajiado,kajiado central,purko
+917,Kajiado,kajiado central,ildamat
+918,Kajiado,kajiado central,dalalekutuk
+919,Kajiado,kajiado central,matapato north
+920,Kajiado,kajiado central,matapato south
+921,Kajiado,kajiado east,kaputiei north
+922,Kajiado,kajiado east,kitengela
+923,Kajiado,kajiado east,oloosirkon sholinke
+924,Kajiado,kajiado east,kenyawa-poka
+925,Kajiado,kajiado east,imaroro
+926,Kajiado,kajiado west,keekonyokie
+927,Kajiado,kajiado west,iloodokilani
+928,Kajiado,kajiado west,magadi
+929,Kajiado,kajiado west,ewuaso oonkidong'i
+930,Kajiado,kajiado west,mosiro
+931,Kajiado,kajiado south,entonet lenkisim
+932,Kajiado,kajiado south,mbirikani eselenkei
+933,Kajiado,kajiado south,kuku
+934,Kajiado,kajiado south,rombo
+935,Kajiado,kajiado south,kimana
+936,Kericho,kipkelion east,londiani
+937,Kericho,kipkelion east,kedowa kimugul
+938,Kericho,kipkelion east,chepseon
+939,Kericho,kipkelion east,tendeno sorget
+940,Kericho,kipkelion west,kunyak
+941,Kericho,kipkelion west,kamasian
+942,Kericho,kipkelion west,kipkelion
+943,Kericho,kipkelion west,chilchila
+944,Kericho,ainamoi,kapsoit
+945,Kericho,ainamoi,ainamoi
+946,Kericho,ainamoi,kapkugerwet
+947,Kericho,ainamoi,kipchebor
+948,Kericho,ainamoi,kipchimchim
+949,Kericho,ainamoi,kapsaos
+950,Kericho,bureti,kisiara
+951,Kericho,bureti,tebesonik
+952,Kericho,bureti,cheboin
+953,Kericho,bureti,chemosot
+954,Kericho,bureti,litein
+955,Kericho,bureti,cheplanget
+956,Kericho,bureti,kapkatet
+957,Kericho,belgut,waldai
+958,Kericho,belgut,kabianga
+959,Kericho,belgut,cheptororiet seretut
+960,Kericho,belgut,chaik
+961,Kericho,belgut,kapsuser
+962,Kericho,sigowet soin,sigowet
+963,Kericho,sigowet soin,kaplelartet
+964,Kericho,sigowet soin,soliat
+965,Kericho,sigowet soin,soin
+966,Bomet,sotik,ndanai abosi
+967,Bomet,sotik,chemagel
+968,Bomet,sotik,kipsonoi
+969,Bomet,sotik,kapletundo
+970,Bomet,sotik,rongena manaret
+971,Bomet,chepalungu,kong'asis
+972,Bomet,chepalungu,nyangores
+973,Bomet,chepalungu,sigor
+974,Bomet,chepalungu,chebunyo
+975,Bomet,chepalungu,siongiroi
+976,Bomet,bomet east,merigi
+977,Bomet,bomet east,kembu
+978,Bomet,bomet east,longisa
+979,Bomet,bomet east,kipreres
+980,Bomet,bomet east,chemaner
+981,Bomet,bomet central,silibwet township
+982,Bomet,bomet central,ndaraweta
+983,Bomet,bomet central,singorwet
+984,Bomet,bomet central,chesoen
+985,Bomet,bomet central,mutarakwa
+986,Bomet,konoin,chepchabas
+987,Bomet,konoin,kimulot
+988,Bomet,konoin,mogogosiek
+989,Bomet,konoin,boito
+990,Bomet,konoin,embomos
+991,Kakamega,lugari,mautuma
+992,Kakamega,lugari,lugari
+993,Kakamega,lugari,lumakanda
+994,Kakamega,lugari,chekalini
+995,Kakamega,lugari,chevaywa
+996,Kakamega,lugari,lwandeti
+997,Kakamega,likuyani,likuyani
+998,Kakamega,likuyani,sango
+999,Kakamega,likuyani,kongoni
+1000,Kakamega,likuyani,nzoia
+1001,Kakamega,likuyani,sinoko
+1002,Kakamega,malava,west kabras
+1003,Kakamega,malava,chemuche
+1004,Kakamega,malava,east kabras
+1005,Kakamega,malava,butali chegulo
+1006,Kakamega,malava,manda-shivanga
+1007,Kakamega,malava,shirugu-mugai
+1008,Kakamega,malava,south kabras
+1009,Kakamega,lurambi,butsotso east
+1010,Kakamega,lurambi,butsotso south
+1011,Kakamega,lurambi,butsotso central
+1012,Kakamega,lurambi,sheywe
+1013,Kakamega,lurambi,mahiakalo
+1014,Kakamega,lurambi,shirere
+1015,Kakamega,navakholo,ingostse-mathia
+1016,Kakamega,navakholo,shinoyi-shikomari-
+1017,Kakamega,navakholo,bunyala west
+1018,Kakamega,navakholo,bunyala east
+1019,Kakamega,navakholo,bunyala central
+1020,Kakamega,mumias west,mumias central
+1021,Kakamega,mumias west,mumias north
+1022,Kakamega,mumias west,etenje
+1023,Kakamega,mumias west,musanda
+1024,Kakamega,mumias east,lubinu lusheya
+1025,Kakamega,mumias east,isongo makunga malaha
+1026,Kakamega,mumias east,east wanga
+1027,Kakamega,matungu,koyonzo
+1028,Kakamega,matungu,kholera
+1029,Kakamega,matungu,khalaba
+1030,Kakamega,matungu,mayoni
+1031,Kakamega,matungu,namamali
+1032,Kakamega,butere,marama west
+1033,Kakamega,butere,marama central
+1034,Kakamega,butere,marenyo - shianda
+1035,Kakamega,butere,marama north
+1036,Kakamega,butere,marama south
+1037,Kakamega,khwisero,kisa north
+1038,Kakamega,khwisero,kisa east
+1039,Kakamega,khwisero,kisa west
+1040,Kakamega,khwisero,kisa central
+1041,Kakamega,shinyalu,isukha north
+1042,Kakamega,shinyalu,murhanda
+1043,Kakamega,shinyalu,isukha central
+1044,Kakamega,shinyalu,isukha south
+1045,Kakamega,shinyalu,isukha east
+1046,Kakamega,shinyalu,isukha west
+1047,Kakamega,ikolomani,idakho south
+1048,Kakamega,ikolomani,idakho east
+1049,Kakamega,ikolomani,idakho north
+1050,Kakamega,ikolomani,idakho central
+1051,Vihiga,vihiga,lugaga-wamuluma
+1052,Vihiga,vihiga,south maragoli
+1053,Vihiga,vihiga,central maragoli
+1054,Vihiga,vihiga,mungoma
+1055,Vihiga,sabatia,lyaduywa izava
+1056,Vihiga,sabatia,west sabatia
+1057,Vihiga,sabatia,chavakali
+1058,Vihiga,sabatia,north maragoli
+1059,Vihiga,sabatia,wodanga
+1060,Vihiga,sabatia,busali
+1061,Vihiga,hamisi,shiru
+1062,Vihiga,hamisi,muhudu
+1063,Vihiga,hamisi,shamakhokho
+1064,Vihiga,hamisi,gisambai
+1065,Vihiga,hamisi,banja
+1066,Vihiga,hamisi,tambua
+1067,Vihiga,hamisi,jepkoyai
+1068,Vihiga,luanda,luanda township
+1069,Vihiga,luanda,wemilabi
+1070,Vihiga,luanda,mwibona
+1071,Vihiga,luanda,luanda south
+1072,Vihiga,luanda,emabungo
+1073,Vihiga,emuhaya,north east bunyore
+1074,Vihiga,emuhaya,central bunyore
+1075,Vihiga,emuhaya,west bunyore
+1076,Bungoma,mt.elgon,cheptais
+1077,Bungoma,mt.elgon,chesikaki
+1078,Bungoma,mt.elgon,chepyuk
+1079,Bungoma,mt.elgon,kapkateny
+1080,Bungoma,mt.elgon,kaptama
+1081,Bungoma,mt.elgon,elgon
+1082,Bungoma,sirisia,namwela
+1083,Bungoma,sirisia,malakisi south kulisiru
+1084,Bungoma,sirisia,lwandanyi
+1085,Bungoma,kabuchai,kabuchai chwele
+1086,Bungoma,kabuchai,west nalondo
+1087,Bungoma,kabuchai,bwake luuya
+1088,Bungoma,kabuchai,mukuyuni
+1089,Bungoma,bumula,south bukusu
+1090,Bungoma,bumula,bumula
+1091,Bungoma,bumula,khasoko
+1092,Bungoma,bumula,kabula
+1093,Bungoma,bumula,kimaeti
+1094,Bungoma,bumula,west bukusu
+1095,Bungoma,bumula,siboti
+1096,Bungoma,kanduyi,bukembe west
+1097,Bungoma,kanduyi,bukembe east
+1098,Bungoma,kanduyi,township
+1099,Bungoma,kanduyi,khalaba
+1100,Bungoma,kanduyi,musikoma
+1101,Bungoma,kanduyi,east sang'alo
+1102,Bungoma,kanduyi,marakaru tuuti
+1103,Bungoma,kanduyi,sang'alo west
+1104,Bungoma,webuye east,mihuu
+1105,Bungoma,webuye east,ndivisi
+1106,Bungoma,webuye east,maraka
+1107,Bungoma,webuye west,misikhu
+1108,Bungoma,webuye west,sitikho
+1109,Bungoma,webuye west,matulo
+1110,Bungoma,webuye west,bokoli
+1111,Bungoma,kimilili,kimilili
+1112,Bungoma,kimilili,kibingei
+1113,Bungoma,kimilili,maeni
+1114,Bungoma,kimilili,kamukuywa
+1115,Bungoma,tongaren,mbakalo
+1116,Bungoma,tongaren,naitiri kabuyefwe
+1117,Bungoma,tongaren,milima
+1118,Bungoma,tongaren,ndalu  tabani
+1119,Bungoma,tongaren,tongaren
+1120,Bungoma,tongaren,soysambu  mitua
+1121,Busia,teso north,malaba central
+1122,Busia,teso north,malaba north
+1123,Busia,teso north,ang'urai south
+1124,Busia,teso north,ang'urai north
+1125,Busia,teso north,ang'urai east
+1126,Busia,teso north,malaba south
+1127,Busia,teso south,ang'orom
+1128,Busia,teso south,chakol south
+1129,Busia,teso south,chakol north
+1130,Busia,teso south,amukura west
+1131,Busia,teso south,amukura east
+1132,Busia,teso south,amukura central
+1133,Busia,nambale,nambale township
+1134,Busia,nambale,bukhayo north waltsi
+1135,Busia,nambale,bukhayo east
+1136,Busia,nambale,bukhayo central
+1137,Busia,matayos,bukhayo west
+1138,Busia,matayos,mayenje
+1139,Busia,matayos,matayos south
+1140,Busia,matayos,busibwabo
+1141,Busia,matayos,burumba
+1142,Busia,butula,marachi west
+1143,Busia,butula,kingandole
+1144,Busia,butula,marachi central
+1145,Busia,butula,marachi east
+1146,Busia,butula,marachi north
+1147,Busia,butula,elugulu
+1148,Busia,funyula,namboboto nambuku
+1149,Busia,funyula,nangina
+1150,Busia,funyula,ageng'a nanguba
+1151,Busia,funyula,bwiri
+1152,Busia,budalangi,bunyala central
+1153,Busia,budalangi,bunyala north
+1154,Busia,budalangi,bunyala west
+1155,Busia,budalangi,bunyala south
+1156,Siaya,ugenya,west ugenya
+1157,Siaya,ugenya,ukwala
+1158,Siaya,ugenya,north ugenya
+1159,Siaya,ugenya,east ugenya
+1160,Siaya,ugunja,sidindi
+1161,Siaya,ugunja,sigomere
+1162,Siaya,ugunja,ugunja
+1163,Siaya,alego usonga,usonga
+1164,Siaya,alego usonga,west alego
+1165,Siaya,alego usonga,central alego
+1166,Siaya,alego usonga,siaya township
+1167,Siaya,alego usonga,north alego
+1168,Siaya,alego usonga,south east alego
+1169,Siaya,gem,north gem
+1170,Siaya,gem,west gem
+1171,Siaya,gem,central gem
+1172,Siaya,gem,yala township
+1173,Siaya,gem,east gem
+1174,Siaya,gem,south gem
+1175,Siaya,bondo,west yimbo
+1176,Siaya,bondo,central sakwa
+1177,Siaya,bondo,south sakwa
+1178,Siaya,bondo,yimbo east
+1179,Siaya,bondo,west sakwa
+1180,Siaya,bondo,north sakwa
+1181,Siaya,rarieda,east asembo
+1182,Siaya,rarieda,west asembo
+1183,Siaya,rarieda,north uyoma
+1184,Siaya,rarieda,south uyoma
+1185,Siaya,rarieda,west uyoma
+1186,Kisumu,kisumu east,kajulu
+1187,Kisumu,kisumu east,kolwa east
+1188,Kisumu,kisumu east,manyatta 'b'
+1189,Kisumu,kisumu east,nyalenda 'a'
+1190,Kisumu,kisumu east,kolwa central
+1191,Kisumu,kisumu west,south west kisumu
+1192,Kisumu,kisumu west,central kisumu
+1193,Kisumu,kisumu west,kisumu north
+1194,Kisumu,kisumu west,west kisumu
+1195,Kisumu,kisumu west,north west kisumu
+1196,Kisumu,kisumu central,railways
+1197,Kisumu,kisumu central,migosi
+1198,Kisumu,kisumu central,shaurimoyo kaloleni
+1199,Kisumu,kisumu central,market milimani
+1200,Kisumu,kisumu central,kondele
+1201,Kisumu,kisumu central,nyalenda b
+1202,Kisumu,seme,west seme
+1203,Kisumu,seme,central seme
+1204,Kisumu,seme,east seme
+1205,Kisumu,seme,north seme
+1206,Kisumu,nyando,east kano wawidhi
+1207,Kisumu,nyando,awasi onjiko
+1208,Kisumu,nyando,ahero
+1209,Kisumu,nyando,kabonyo kanyagwal
+1210,Kisumu,nyando,kobura
+1211,Kisumu,muhoroni,miwani
+1212,Kisumu,muhoroni,ombeyi
+1213,Kisumu,muhoroni,masogo nyang'oma
+1214,Kisumu,muhoroni,chemelil
+1215,Kisumu,muhoroni,muhoroni koru
+1216,Kisumu,nyakach,south west nyakach
+1217,Kisumu,nyakach,north nyakach
+1218,Kisumu,nyakach,central nyakach
+1219,Kisumu,nyakach,west nyakach
+1220,Kisumu,nyakach,south east nyakach
+1221,Homa Bay,kasipul,west kasipul
+1222,Homa Bay,kasipul,south kasipul
+1223,Homa Bay,kasipul,central kasipul
+1224,Homa Bay,kasipul,east kamagak
+1225,Homa Bay,kasipul,west kamagak
+1226,Homa Bay,kabondo kasipul,kabondo east
+1227,Homa Bay,kabondo kasipul,kabondo west
+1228,Homa Bay,kabondo kasipul,kokwanyo kakelo
+1229,Homa Bay,kabondo kasipul,kojwach
+1230,Homa Bay,karachuonyo,west karachuonyo
+1231,Homa Bay,karachuonyo,north karachuonyo
+1232,Homa Bay,karachuonyo,central
+1233,Homa Bay,karachuonyo,kanyaluo
+1234,Homa Bay,karachuonyo,kibiri
+1235,Homa Bay,karachuonyo,wangchieng
+1236,Homa Bay,karachuonyo,kendu bay town
+1237,Homa Bay,rangwe,west gem
+1238,Homa Bay,rangwe,east gem
+1239,Homa Bay,rangwe,kagan
+1240,Homa Bay,rangwe,kochia
+1241,Homa Bay,homa bay town,homa bay central
+1242,Homa Bay,homa bay town,homa bay arujo
+1243,Homa Bay,homa bay town,homa bay west
+1244,Homa Bay,homa bay town,homa bay east
+1245,Homa Bay,ndhiwa,kwabwai
+1246,Homa Bay,ndhiwa,kanyadoto
+1247,Homa Bay,ndhiwa,kanyikela
+1248,Homa Bay,ndhiwa,north kabuoch
+1249,Homa Bay,ndhiwa,kabuoch south pala
+1250,Homa Bay,ndhiwa,kanyamwa kologi
+1251,Homa Bay,ndhiwa,kanyamwa kosewe
+1252,Homa Bay,mbita,mfangano island
+1253,Homa Bay,mbita,rusinga island
+1254,Homa Bay,mbita,kasgunga
+1255,Homa Bay,mbita,gembe
+1256,Homa Bay,mbita,lambwe
+1257,Homa Bay,suba,gwassi south
+1258,Homa Bay,suba,gwassi north
+1259,Homa Bay,suba,kaksingri west
+1260,Homa Bay,suba,ruma kaksingri east
+1261,Migori,rongo,north kamagambo
+1262,Migori,rongo,central kamagambo
+1263,Migori,rongo,east kamagambo
+1264,Migori,rongo,south kamagambo
+1265,Migori,awendo,north sakwa
+1266,Migori,awendo,south sakwa
+1267,Migori,awendo,west sakwa
+1268,Migori,awendo,central sakwa
+1269,Migori,suna east,god jope
+1270,Migori,suna east,suna central
+1271,Migori,suna east,kakrao
+1272,Migori,suna east,kwa
+1273,Migori,suna west,wiga
+1274,Migori,suna west,wasweta ii
+1275,Migori,suna west,ragana-oruba
+1276,Migori,suna west,wasimbete
+1277,Migori,uriri,west kanyamkago
+1278,Migori,uriri,north kanyamkago
+1279,Migori,uriri,central kanyamkago
+1280,Migori,uriri,south kanyamkago
+1281,Migori,uriri,east kanyamkago
+1282,Migori,nyatike,kachien'g
+1283,Migori,nyatike,kanyasa
+1284,Migori,nyatike,north kadem
+1285,Migori,nyatike,macalder kanyarwanda
+1286,Migori,nyatike,kaler
+1287,Migori,nyatike,got kachola
+1288,Migori,nyatike,muhuru
+1289,Migori,kuria west,bukira east
+1290,Migori,kuria west,bukira centrl ikerege
+1291,Migori,kuria west,isibania
+1292,Migori,kuria west,makerero
+1293,Migori,kuria west,masaba
+1294,Migori,kuria west,tagare
+1295,Migori,kuria west,nyamosense komosoko
+1296,Migori,kuria east,gokeharaka getambwega
+1297,Migori,kuria east,ntimaru west
+1298,Migori,kuria east,ntimaru east
+1299,Migori,kuria east,nyabasi east
+1300,Migori,kuria east,nyabasi west
+1301,Kisii,bonchari,bomariba
+1302,Kisii,bonchari,bogiakumu
+1303,Kisii,bonchari,bomorenda
+1304,Kisii,bonchari,riana
+1305,Kisii,south mugirango,tabaka
+1306,Kisii,south mugirango,boikang'a
+1307,Kisii,south mugirango,bogetenga
+1308,Kisii,south mugirango,borabu   chitago
+1309,Kisii,south mugirango,moticho
+1310,Kisii,south mugirango,getenga
+1311,Kisii,bomachoge borabu,bombaba borabu
+1312,Kisii,bomachoge borabu,boochi borabu
+1313,Kisii,bomachoge borabu,bokimonge
+1314,Kisii,bomachoge borabu,magenche
+1315,Kisii,bobasi,masige west
+1316,Kisii,bobasi,masige east
+1317,Kisii,bobasi,bobasi central
+1318,Kisii,bobasi,nyacheki
+1319,Kisii,bobasi,bobasi bogetaorio
+1320,Kisii,bobasi,bobasi chache
+1321,Kisii,bobasi,sameta mokwerero
+1322,Kisii,bobasi,bobasi boitangare
+1323,Kisii,bomachoge chache,majoge
+1324,Kisii,bomachoge chache,boochi tendere
+1325,Kisii,bomachoge chache,bosoti sengera
+1326,Kisii,nyaribari masaba,ichuni
+1327,Kisii,nyaribari masaba,nyamasibi
+1328,Kisii,nyaribari masaba,masimba
+1329,Kisii,nyaribari masaba,gesusu
+1330,Kisii,nyaribari masaba,kiamokama
+1331,Kisii,nyaribari chache,bobaracho
+1332,Kisii,nyaribari chache,kisii central
+1333,Kisii,nyaribari chache,keumbu
+1334,Kisii,nyaribari chache,kiogoro
+1335,Kisii,nyaribari chache,birongo
+1336,Kisii,nyaribari chache,ibeno
+1337,Kisii,kitutu chache north,monyerero
+1338,Kisii,kitutu chache north,sensi
+1339,Kisii,kitutu chache north,marani
+1340,Kisii,kitutu chache north,kegogi
+1341,Kisii,kitutu chache south,bogusero
+1342,Kisii,kitutu chache south,bogeka
+1343,Kisii,kitutu chache south,nyakoe
+1344,Kisii,kitutu chache south,kitutu   central
+1345,Kisii,kitutu chache south,nyatieko
+1346,Nyamira,kitutu masaba,rigoma
+1347,Nyamira,kitutu masaba,gachuba
+1348,Nyamira,kitutu masaba,kemera
+1349,Nyamira,kitutu masaba,magombo
+1350,Nyamira,kitutu masaba,manga
+1351,Nyamira,kitutu masaba,gesima
+1352,Nyamira,west mugirango,nyamaiya
+1353,Nyamira,west mugirango,bogichora
+1354,Nyamira,west mugirango,bosamaro
+1355,Nyamira,west mugirango,bonyamatuta
+1356,Nyamira,west mugirango,township
+1357,Nyamira,north mugirango,itibo
+1358,Nyamira,north mugirango,bomwagamo
+1359,Nyamira,north mugirango,bokeira
+1360,Nyamira,north mugirango,magwagwa
+1361,Nyamira,north mugirango,ekerenyo
+1362,Nyamira,borabu,mekenene
+1363,Nyamira,borabu,kiabonyoru
+1364,Nyamira,borabu,nyansiongo
+1365,Nyamira,borabu,esise
+1366,Nairobi,westlands,kitisuru
+1367,Nairobi,westlands,parklands highridge
+1368,Nairobi,westlands,karura
+1369,Nairobi,westlands,kangemi
+1370,Nairobi,westlands,mountain view
+1371,Nairobi,dagoretti north,kilimani
+1372,Nairobi,dagoretti north,kawangware
+1373,Nairobi,dagoretti north,gatina
+1374,Nairobi,dagoretti north,kileleshwa
+1375,Nairobi,dagoretti north,kabiro
+1376,Nairobi,dagoretti south,mutuini
+1377,Nairobi,dagoretti south,ngando
+1378,Nairobi,dagoretti south,riruta
+1379,Nairobi,dagoretti south,uthiru ruthimitu
+1380,Nairobi,dagoretti south,waithaka
+1381,Nairobi,langata,karen
+1382,Nairobi,langata,nairobi west
+1383,Nairobi,langata,mugumo-ini
+1384,Nairobi,langata,south-c
+1385,Nairobi,langata,nyayo highrise
+1386,Nairobi,kibra,laini saba
+1387,Nairobi,kibra,lindi
+1388,Nairobi,kibra,makina
+1389,Nairobi,kibra,woodley kenyatta golf
+1390,Nairobi,kibra,sarangombe
+1391,Nairobi,roysambu,githurai
+1392,Nairobi,roysambu,kahawa west
+1393,Nairobi,roysambu,zimmerman
+1394,Nairobi,roysambu,roysambu
+1395,Nairobi,roysambu,kahawa
+1396,Nairobi,kasarani,claycity
+1397,Nairobi,kasarani,mwiki
+1398,Nairobi,kasarani,kasarani
+1399,Nairobi,kasarani,njiru
+1400,Nairobi,kasarani,ruai
+1401,Nairobi,ruaraka,baba dogo
+1402,Nairobi,ruaraka,utalii
+1403,Nairobi,ruaraka,mathare north
+1404,Nairobi,ruaraka,lucky summer
+1405,Nairobi,ruaraka,korogocho
+1406,Nairobi,embakasi south,imara daima
+1407,Nairobi,embakasi south,kwa njenga
+1408,Nairobi,embakasi south,kwa reuben
+1409,Nairobi,embakasi south,pipeline
+1410,Nairobi,embakasi south,kware
+1411,Nairobi,embakasi north,kariobangi north
+1412,Nairobi,embakasi north,dandora area i
+1413,Nairobi,embakasi north,dandora area ii
+1414,Nairobi,embakasi north,dandora area iii
+1415,Nairobi,embakasi north,dandora area iv
+1416,Nairobi,embakasi central,kayole north
+1417,Nairobi,embakasi central,kayole central
+1418,Nairobi,embakasi central,kayole south
+1419,Nairobi,embakasi central,komarock
+1420,Nairobi,embakasi central,matopeni
+1421,Nairobi,embakasi east,upper savannah
+1422,Nairobi,embakasi east,lower savannah
+1423,Nairobi,embakasi east,embakasi
+1424,Nairobi,embakasi east,utawala
+1425,Nairobi,embakasi east,mihango
+1426,Nairobi,embakasi west,umoja i
+1427,Nairobi,embakasi west,umoja ii
+1428,Nairobi,embakasi west,mowlem
+1429,Nairobi,embakasi west,kariobangi south
+1430,Nairobi,makadara,makongeni
+1431,Nairobi,makadara,maringo hamza
+1432,Nairobi,makadara,harambee
+1433,Nairobi,makadara,viwandani
+1434,Nairobi,kamukunji,pumwani
+1435,Nairobi,kamukunji,eastleigh north
+1436,Nairobi,kamukunji,eastleigh south
+1437,Nairobi,kamukunji,airbase
+1438,Nairobi,kamukunji,california
+1439,Nairobi,starehe,nairobi central
+1440,Nairobi,starehe,ngara
+1441,Nairobi,starehe,ziwani kariokor
+1442,Nairobi,starehe,pangani
+1443,Nairobi,starehe,landimawe
+1444,Nairobi,starehe,nairobi south
+1445,Nairobi,mathare,hospital
+1446,Nairobi,mathare,mabatini
+1447,Nairobi,mathare,huruma
+1448,Nairobi,mathare,ngei
+1449,Nairobi,mathare,mlango kubwa
+1450,Nairobi,mathare,kiamaiko
